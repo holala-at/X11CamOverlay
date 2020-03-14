@@ -1,0 +1,2 @@
+A simple and straight forward implementation using X11 and OpenCV libraries. 
+Tested under OpenCV 4.1.2 and X.Org version: 1.20.5
